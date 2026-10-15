@@ -1,9 +1,9 @@
-# 🏭 Manufacturing & Field Engineering Documentation Portal
+#  Manufacturing & Field Engineering Documentation Portal
 
 Welcome to the central technical documentation repository for plant operations, equipment assembly, and field service workflows. This portal maintains version-controlled Standard Operating Procedures (SOPs), Work Instructions (WIs), and Engineering Change Logs.
 
 
-## 👥 Stakeholder Alignment
+##  Stakeholder Alignment
 
 This repository serves cross-functional teams across the equipment lifecycle:
 
@@ -17,14 +17,14 @@ This repository serves cross-functional teams across the equipment lifecycle:
 
 ---
 
-## 📚 Active Documentation
+##  Active Documentation
 
 - **[WI-ENG-204: Pressure Transducer Replacement & Calibration](work-instruction-sensor.md)**  
   *Detailed standard work instruction for replacement, isolation, wiring, and zero-point calibration.*
 
 ---
 
-## 🔄 Continuous Improvement & Engineering Change (ECO)
+##  Continuous Improvement & Engineering Change (ECO)
 
 We utilize a closed-loop feedback mechanism to translate observations from factory operators and field service engineers into standardized product and process updates.
 
